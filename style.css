@@ -1,0 +1,9 @@
+body{
+	max-width: 800px;
+	width: 100%;
+	display: grid;
+	grid-template:auto auto / 25% 25% 25% 25%;
+}
+img{
+	max-width: 100%;
+}
